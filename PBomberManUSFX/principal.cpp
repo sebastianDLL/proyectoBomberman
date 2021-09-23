@@ -8,7 +8,7 @@ int main() {
 
 	//GameObject o1;
 	GameActor a1 ("pedro");
-	GameActor a2( );
+	GameActor a2(" ");
 
 	cout << "El nombre del objeto es" << a1.getNombre() << endl;
 	cout << "El nombre del objeto es" << a2.getNombre() << endl;
